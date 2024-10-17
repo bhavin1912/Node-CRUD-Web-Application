@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "$oid": "60dfd99e36c52d37ac61333e"
+  },
+  "name": "Bhavin",
+  "email": "bhavin.12@gmail.com",
+  "password": "$2b$10$tf0UAsYe9DEXs5lEbg1t/edofdMQ5eBc.W035ZIer0T0oGLgIlPda",
+  "date": {
+    "$date": "2021-07-03T03:29:34.414Z"
+  },
+  "__v": 0
+}]
